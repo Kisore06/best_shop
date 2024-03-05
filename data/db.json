@@ -1,0 +1,19 @@
+{
+    "items": [
+       {
+        "id":1,
+        "checked":false,
+        "item":"Practice coding"
+       },
+       {
+        "id":2,
+        "checked":false,
+        "item":"Javascript"
+       },
+       {
+        "id":3,
+        "checked":false,
+        "item":"Node-js"
+       }
+    ]
+}
